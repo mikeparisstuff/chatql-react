@@ -1,0 +1,17 @@
+/* .chat-message-view {
+    position: relative;
+} */
+
+.chat {
+    overflow-x: hidden !important;
+    overflow-y: auto;
+    position: absolute;
+    bottom: 58px;
+    top: 59px;
+    left: 0;
+    right: 0;
+}
+
+.bg {
+    background-color: #e4e7eb;
+}
