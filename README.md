@@ -12,3 +12,4 @@ The Amplify Console provides continuous deployment and hosting for modern web ap
 1. Choose Save and deploy.
 
 The Amplify Console will now deploy a backend with a GraphQL API, Authentication, and Analytics resources. After the backend deploys, the console will build and deploy the frontend to a `http://unique-id.amplifyapp.com` domain.
+![ChatQL](./images/chatql.gif)
