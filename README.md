@@ -1,6 +1,6 @@
 # Amplify Chat Starter
 
-This is a starter React Chat app that uses AWS AppSync to implement offline and real-time capabilities in a chat application. In the chat app, users can have conversations with other users and exchange messages. The application demonstrates GraphQL Mutations, Queries and Subscriptions using AWS AppSync. You can use this for learning purposes or adapt either the application or the GraphQL Schema to meet your needs.
+This is a starter React Chat app that uses the Amplify Framework to implement offline and real-time capabilities in a chat application. In the chat app, users can have conversations with other users and exchange messages. The application demonstrates GraphQL Mutations, Queries and Subscriptions using AWS AppSync, Authentication using Amazon Cognito, and Analytics using Amazon Pinpoint. You can use this for learning purposes or adapt either the application or the GraphQL Schema to meet your needs.
 
 ## Deploy with Amplify Console
 The Amplify Console provides continuous deployment and hosting for modern web apps (single page apps and static site generators). Continuous deployment allows developers to deploy updates to their web app on every code commit to their Git repository. Hosting includes features such as globally available CDNs, easy custom domain setup + HTTPS, feature branch deployments, and password protection.
