@@ -32,7 +32,7 @@ type Message
   author: User @connection(name: "UserMessages", keyField: "authorId")
   authorId: String
   content: String!
-  conversation: Conversation! @connection(name: "ConvoMsgs")
+  conversation: Conversation! @connection(name: "ConvoMsgs", sortField: "createdAt")
   messageConversationId: ID!
 	createdAt: String
 	updatedAt: String
